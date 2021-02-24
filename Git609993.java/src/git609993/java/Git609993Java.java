@@ -17,8 +17,9 @@ public class Git609993Java {
     public static void main(String[] args) {
         
         String nombre= "Geder Pérez";
+        String grupo = "Grupo A";
         String matricula= "60993";
-        System.out.println(" Soy " + nombre + " Mi matricula es " + matricula);
+        System.out.println(" Soy " + nombre + " Mi grupo es " + grupo + " Mi matricula es " + matricula);
     }
     
 }
