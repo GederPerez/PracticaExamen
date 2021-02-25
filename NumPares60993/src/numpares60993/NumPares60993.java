@@ -22,7 +22,7 @@ public class NumPares60993 {
         
         for ( num = 1; num <= 47; num++){
             if (num%2 ==0){
-                System.out.println(num + " Par " );
+                System.out.println(num);
             }
         }
     }
